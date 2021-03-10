@@ -20,3 +20,10 @@
 
 详细显示与编辑：markdown、git、org、时间规划
 
+## repo 分层
+TimeCatModule-Git + TimeCatModule-BookReader + TimeCatModule-Online + TimeCatModule-Browser + TimeCatModule-File
+TimeCatMiddle
+TimeCatPage
+TimeCatLayout     + TimeCatDatabase + TimeCatShowIn
+TimeCatComponents
+TimeCatIdentity   + TimeCatElement  + TimeCatThird   + MView
